@@ -1,2 +1,7 @@
 ﻿var integerRatioPosNeg = new IntegerRatioPosNeg();
-integerRatioPosNeg.Run();
+
+for (int i = 0; i < 11; i++)
+{
+    integerRatioPosNeg.Run();
+}
+
